@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right, #f698ff, #feb47b);
+}
+#mythanks {
+    margin: 0;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+#button {
+    margin: auto;
+    display: flex;
+    width: 40vh;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+    background-color: aquamarine;
+    cursor: pointer;
+}
