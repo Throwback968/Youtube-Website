@@ -4,17 +4,17 @@ body {
 #top {
     display: flex;
     align-items: center;
-    gap: 5px;
-    border: 10px black solid;
+    gap: 0.79vh;
+    border: 1.58vh black solid;
     border-radius: 5px;
-    padding: 20px;
+    padding: 3.16vh;
     background-color: grey;
     justify-content: center;
-    width: 1000px;
+    width: 158.2vh;
     margin: auto;
 }
 #photo {
-    width: 150px;
+    width: 23.73vh;
     height: auto;
     cursor: pointer;
     border: solid black;
@@ -29,11 +29,11 @@ body {
     margin: auto;
     font-size: 28px;
     width: 90%;
-    border: 10px black;
-    padding: 20px;
+    border: 1.58vh black;
+    padding: 3.16vh;
     background-color: grey;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border-radius: 20px;
+    border-radius: 3.164vh;
 
 }
 #dookie {
@@ -41,18 +41,18 @@ body {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
-    width: 450px;
-    height: 100px;
+    width: 71.2vh;
+    height: 15.82vh;
     border-radius: 10px;
-    padding: 10px;
+    padding: 1.58vh;
     border: solid black 4px;
     background-color: rgb(255, 70, 70);
     
 } #choice{
     background-color: darkgray;
     margin: auto;
-    width: 450px;
-    height: 220px;
+    width: 71.2vh;
+    height: 34.81vh;
     border: double black;
     text-align: center;
     font-size: 40px;
@@ -62,7 +62,7 @@ body {
 #yes, #no{
     background-color: #ff0015;
     color: white;
-    padding: 12px 24px;
+    padding: 1.90vh 3.80vh;
     border: none;
     border-radius: 8px;
     font-size: 16px;
@@ -76,10 +76,10 @@ body {
     text-align: center;
     margin: auto;
     justify-self: unset;
-    width: 750px;
-    top: 100px;
-    padding: 20px;
-    border: #000000 double 4px;
+    width: 118.67vh;
+    top: 15.8vh;
+    padding: 3.16vh;
+    border: #000000 double 0.64vh;
 } #giveIdeas{
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -87,39 +87,39 @@ body {
 #ideaInput {
     width: 80%;
     height: 80%;
-    margin-bottom: 10px;
-    padding: 10px;
+    margin-bottom: 1.5vh;
+    padding: 1.5vh;
 } textarea, input{
     width: 80%;
-    height: 10px;
-    margin-bottom: 10px;
-    padding: 10px;
+    height: 1.5vh;
+    margin-bottom: 1.5vh;
+    padding: 1.5vh;
 } #ideasArea {
     margin: auto;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
-    width: 450px;
-    height: 100px;
+    width: 71vh;
+    height: 15.8vh;
     border-radius: 10px;
     padding: 10px;
     border: solid black 4px;
     background-color: rgb(255, 70, 70);
-    max-width: 450px;
+    max-width: 71vh;
     overflow-y: auto;
     
 } #ideasArea::-webkit-scrollbar {
-    width: 10px; /* Width of the scrollbar */
+    width: 1.5vh; /* Width of the scrollbar */
   }
   
   #ideasArea::-webkit-scrollbar-track {
     background: #f1f1f1; /* Track color */
-    border-radius: 10px;
+    border-radius: 5vh
   }
   
   #ideasArea::-webkit-scrollbar-thumb {
     background: #000000; /* Scrollbar color */
-    border-radius: 10px;
+    border-radius: 5vh;
     border: 2px solid #f1f1f1; /* Optional border */
   }
   
@@ -128,15 +128,15 @@ body {
   }#submit{
     background-color: #ff0015;
     color: white;
-    padding: 10px 20px;
+    padding: 2vh 5vh;
     border: none;
-    border-radius: 8px;
+    border-radius: 3vh;
     cursor: pointer;
 } #submit:hover{
     background-color: #ff4c5b;
 } .idea{
     background-color: #000000;
-    padding: 10px;
+    padding: 10vh;
     margin-bottom: 10px;
     border-radius: 8px;
     word-wrap: break-word;
