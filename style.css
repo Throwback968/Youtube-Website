@@ -10,14 +10,16 @@ body {
     padding: 3.16vh;
     background-color: grey;
     justify-content: center;
-    width: 158.2vh;
     margin: auto;
+    max-width: 158.2vh;
+    min-width: 50vh;
 }
 #photo {
-    width: 23.73vh;
     height: auto;
     cursor: pointer;
     border: solid black;
+    max-width: 23.75vh;
+    min-width: 10vh;
 
 }
 #mytitle {
@@ -28,12 +30,13 @@ body {
     color: black;
     margin: auto;
     font-size: 28px;
-    width: 90%;
     border: 1.58vh black;
     padding: 3.16vh;
     background-color: grey;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 3.164vh;
+    max-width: 158.2vh;
+    min-width: 50vh;
 
 }
 #dookie {
@@ -41,23 +44,25 @@ body {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
-    width: 71.2vh;
     height: 15.82vh;
     border-radius: 10px;
     padding: 1.58vh;
     border: solid black 4px;
     background-color: rgb(255, 70, 70);
+    max-width: 71.2vh;
+    min-width: 25vh;
     
 } #choice{
     background-color: darkgray;
     margin: auto;
-    width: 71.2vh;
+    max-width: 71.2vh;
     height: 34.81vh;
     border: double black;
     text-align: center;
     font-size: 40px;
     color: #000;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 #yes, #no{
     background-color: #ff0015;
@@ -76,10 +81,11 @@ body {
     text-align: center;
     margin: auto;
     justify-self: unset;
-    width: 118.67vh;
     top: 15.8vh;
     padding: 3.16vh;
     border: #000000 double 0.64vh;
+    max-width: 118.67vh;
+    min-width: 40vh;
 } #giveIdeas{
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -99,7 +105,6 @@ body {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
-    width: 71vh;
     height: 15.8vh;
     border-radius: 10px;
     padding: 10px;
