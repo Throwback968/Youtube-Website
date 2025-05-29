@@ -22,6 +22,7 @@ body {
 #mytitle {
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 158.2vh;
 }
 #Words {
     color: black;
