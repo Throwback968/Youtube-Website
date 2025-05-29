@@ -14,7 +14,6 @@ body {
     max-width: 158.2vh;
 }
 #photo {
-    height: auto;
     cursor: pointer;
     border: solid black;
     max-width: 15.75vh;
