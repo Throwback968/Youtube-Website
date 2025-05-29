@@ -12,14 +12,12 @@ body {
     justify-content: center;
     margin: auto;
     max-width: 158.2vh;
-    min-width: 50vh;
 }
 #photo {
     height: auto;
     cursor: pointer;
     border: solid black;
     max-width: 23.75vh;
-    min-width: 10vh;
 
 }
 #mytitle {
@@ -36,7 +34,6 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 3.164vh;
     max-width: 158.2vh;
-    min-width: 50vh;
 
 }
 #dookie {
